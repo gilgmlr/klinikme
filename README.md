@@ -26,7 +26,7 @@ node app.js
 
 Contoh Penggunaan:
 
-Buka browser atau aplikasi seperti Postman untuk mengakses API:
+Setelah dijalankan, buka browser atau aplikasi seperti Postman untuk mengakses API:
 
 http://localhost:3000/jumlah-anggota
 
@@ -43,5 +43,4 @@ http://localhost:3000/hitung-ganjil-genap
 http://localhost:3000/kelompokkan-ganjil-genap
 
 
-Kesimpulan:
-API ini memenuhi permintaan untuk menghitung, mencari, mengurutkan, dan mengelompokkan angka dalam Himpunan Bilangan Asli tanpa menggunakan metode built-in JavaScript untuk perhitungan, pencarian, dan pengurutan. Anda dapat mengakses endpoint untuk berbagai operasi matematika dan logika berdasarkan soal yang diberikan.
+
